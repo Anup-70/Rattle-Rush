@@ -1,1 +1,1 @@
-# Rattle-Rush
+# Snake-Game
